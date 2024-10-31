@@ -44,6 +44,7 @@
 		4309A7D12CD32EE500D06C90 /* IdentosInterviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IdentosInterviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4309A7D52CD32EE500D06C90 /* IdentosInterviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentosInterviewUITests.swift; sourceTree = "<group>"; };
 		4309A7D72CD32EE500D06C90 /* IdentosInterviewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentosInterviewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		437B40862CD3E72900CFB4BA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		4309A7AE2CD32EE100D06C90 = {
 			isa = PBXGroup;
 			children = (
+				437B40862CD3E72900CFB4BA /* README.md */,
 				4309A7B92CD32EE100D06C90 /* IdentosInterview */,
 				4309A7CA2CD32EE500D06C90 /* IdentosInterviewTests */,
 				4309A7D42CD32EE500D06C90 /* IdentosInterviewUITests */,
